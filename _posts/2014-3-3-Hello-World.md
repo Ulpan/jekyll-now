@@ -6,9 +6,8 @@ I'm from Kazahstan. I want to be designer and I will work very hard. Becouse I w
 ![_config.yml](https://zoeambler.files.wordpress.com/2015/02/cat.jpg)
 ---
 layout: post
-title:
+title:Github
 ---
-
-
+Thank you Github! 
 
 
