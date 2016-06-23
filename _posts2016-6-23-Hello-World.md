@@ -7,4 +7,3 @@ I'm from Kazahstan. I want to be designer and I will work very hard. Becouse I w
 ---
 
 
-
